@@ -1,3 +1,4 @@
 To me, version control means keeping track of every change I make in a project so that nothing is ever lost. 
 It allows me to save different stages of my work, go back to older versions if something breaks, and collaborate more safely. 
 With version control like Git and GitHub, I can organize my updates, create branches for new ideas, and maintain a clear history of how my project improves over time.
+(Text file update for commit purposes)
